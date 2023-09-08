@@ -1,0 +1,20 @@
+{
+    "name": "web development",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+
+    "scripts" {
+        "start": "nodemon server.js"
+    },
+
+    "author": "",
+    "licence": "ISC"
+    "dependencies": {
+     "bcrypt": "^5.0.1",
+     "express.js": "^1.0.0",
+     "firebasse": "^9.6.3",
+     "nodemon":"^2.0.15"   
+    }
+}
